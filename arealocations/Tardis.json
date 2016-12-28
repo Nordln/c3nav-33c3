@@ -1,0 +1,25 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Tardis",
+        "en": "Tardis"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "color": "Blue",
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [99.94, 148.03],
+                [99.88, 149.88],
+                [101.83, 149.89],
+                [101.83, 148.03],
+                [99.94, 148.03]
+            ]
+        ]
+    }
+}
